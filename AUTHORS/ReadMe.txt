@@ -1,4 +1,4 @@
-This is an in-class gourp project, using a "traditional waterfall" approach with this project. 
+This is an in-class group project, using a "traditional waterfall" approach with this project. 
 There will be "SYNC" steps throughout the instructions.
 
 
