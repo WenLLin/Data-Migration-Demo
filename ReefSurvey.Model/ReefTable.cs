@@ -20,7 +20,7 @@ namespace ReefSurvey.Model
 
             protected override void OnConfiguring(DbContextOptionsBuilder optionBuilder)
             {
-                optionBuilder.UseSqlServer("Data Source=ReefSurvey.db");
+                optionBuilder.UseSqlServer("Server = (localdb)\\mssqllocaldb; Database = ReefSurvey; Trusted_Connection = True;");
             }
         }
 
