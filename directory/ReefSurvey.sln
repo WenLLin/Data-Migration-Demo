@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29215.179
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReefSurvey", "ReefSurvey.csproj", "{DDAC27FF-0A88-4253-86AC-8C7409A7FBDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReefSurvey.Model", "..\ReefSurvey.Model\ReefSurvey.Model.csproj", "{22C40401-4C14-4910-A935-E3F9CD45EE7A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReefSurvey.Model", "..\ReefSurvey.Model\ReefSurvey.Model.csproj", "{08CFC0DE-0704-4262-A99A-CA3570EB84C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{DDAC27FF-0A88-4253-86AC-8C7409A7FBDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDAC27FF-0A88-4253-86AC-8C7409A7FBDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDAC27FF-0A88-4253-86AC-8C7409A7FBDB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{22C40401-4C14-4910-A935-E3F9CD45EE7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{22C40401-4C14-4910-A935-E3F9CD45EE7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{22C40401-4C14-4910-A935-E3F9CD45EE7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{22C40401-4C14-4910-A935-E3F9CD45EE7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08CFC0DE-0704-4262-A99A-CA3570EB84C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08CFC0DE-0704-4262-A99A-CA3570EB84C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08CFC0DE-0704-4262-A99A-CA3570EB84C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08CFC0DE-0704-4262-A99A-CA3570EB84C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
