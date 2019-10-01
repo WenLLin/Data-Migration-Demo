@@ -1,4 +1,10 @@
-	
+# Entity Framework Database Migration Demo
+### This is a demo of creating an initial database migration using Entity Framwork Core
+
+after creating the model for database, type in:
+```dotnet ef migrations add InitialCreate```
+
+
 Cite as: Caldow, Chris; Clark, Randy; McGrath, Tom; 
 Hile, Sarah D. (2014). Biogeographic 
 characterization of fish and benthic communities, Flower Garden Banks,
