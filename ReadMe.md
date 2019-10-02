@@ -1,9 +1,15 @@
 # Entity Framework Database Migration Demo
 ### This is a demo of creating an initial database migration using Entity Framwork Core
 
-after creating the model for database, type in:
+after creating the model for database, go to git bash, type in:
+
 ```dotnet ef migrations add InitialCreate```
 
+after database has been migrated successfully, update the databse using the command below:
+
+```
+dotnet ef databse update
+```
 
 Cite as: Caldow, Chris; Clark, Randy; McGrath, Tom; 
 Hile, Sarah D. (2014). Biogeographic 
